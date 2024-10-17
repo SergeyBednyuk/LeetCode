@@ -1,0 +1,15 @@
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.AssemblyInfoInputs.cache
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.AssemblyInfo.cs
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.csproj.CoreCompileInputs.cache
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.sourcelink.json
+D:\Education\LeetCode\217-Contain-Duplicate\bin\Debug\net8.0\217-Contain-Duplicate.exe
+D:\Education\LeetCode\217-Contain-Duplicate\bin\Debug\net8.0\217-Contain-Duplicate.deps.json
+D:\Education\LeetCode\217-Contain-Duplicate\bin\Debug\net8.0\217-Contain-Duplicate.runtimeconfig.json
+D:\Education\LeetCode\217-Contain-Duplicate\bin\Debug\net8.0\217-Contain-Duplicate.dll
+D:\Education\LeetCode\217-Contain-Duplicate\bin\Debug\net8.0\217-Contain-Duplicate.pdb
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.dll
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\refint\217-Contain-Duplicate.dll
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.pdb
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\217-Contain-Duplicate.genruntimeconfig.cache
+D:\Education\LeetCode\217-Contain-Duplicate\obj\Debug\net8.0\ref\217-Contain-Duplicate.dll
