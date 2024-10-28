@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1365-how-many-numbers-are-smaller-than-the-current", "1365-how-many-numbers-are-smaller-than-the-current.csproj", "{B120B78F-2063-42E7-BACD-81E3F91C7FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B120B78F-2063-42E7-BACD-81E3F91C7FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B120B78F-2063-42E7-BACD-81E3F91C7FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B120B78F-2063-42E7-BACD-81E3F91C7FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B120B78F-2063-42E7-BACD-81E3F91C7FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
